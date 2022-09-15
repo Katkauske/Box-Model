@@ -1,0 +1,28 @@
+#pirmas { 
+    margin: 0px 500px 500px 600px;
+    background-color: rgb(231, 225, 188);
+    border: solid 3px rgb(220, 154, 11);
+    height: 600px;
+}
+#antras { 
+    overflow: scroll;
+    margin: 10px 110px 500px 20px;
+    border: dashed 7px orange;
+    background: rgb(227, 209, 116);
+    width: 260px;
+    height: 200px;  
+}
+h1 { 
+    margin-left: 20px;
+}
+ 
+
+img { 
+    border: inset 7px  goldenrod;
+    margin-left: 20px;
+}
+.Text { 
+    font-weight: bold;
+    text-decoration: underline;
+}
+ 
